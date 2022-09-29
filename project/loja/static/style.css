@@ -1,0 +1,56 @@
+form {
+    box-shadow: 0px 1px 10px 0px rgb(255, 255, 255);
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px
+    
+    
+}
+button {
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    width: 30%;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(136, 42, 179);
+}
+input {
+    color: rgb(255, 255, 255);
+    border-left: 5px solid rgb(170, 0, 255);
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    background-color: rgba(136, 42, 179);
+    padding: 1%;
+    width: 100%
+}
+table {
+    width: 100%;
+    padding: 1%
+}
+th {
+    background-color: rgb(136, 42, 179);
+    color: rgb(255, 255, 255);
+    padding: 1%;
+}
+td {
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    border-bottom: 1px solid black;
+}
+
+body{
+    margin: 10px;
+    background-color: rgb(144, 135, 154);
+    color: rgb(255, 255, 255);
+}
+p{
+    margin-top: 20px;
+    position: relative;
+    max-width: 20%;
+    background-color: rgb(136, 42, 179);
+    border-radius: 10px;
+    align-items: center;
+    
+    
+}
